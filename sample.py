@@ -1,2 +1,2 @@
 print("Hellow word")
-print('main not')
+print('main not in the same')
